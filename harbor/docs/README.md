@@ -1,24 +1,24 @@
-## Table of Content
+## 目录
 
-### User documents
+### 用户文档
 
-**[Installation and Configuration Guide](installation_guide.md)   
-Read this first!**  
-Guide for Harbor online installer and offline installer.
+**[安装和配置指南](installation_guide.md)
+请先阅读!**
+Harbor的在线安装和离线安装指南。
 
-**[Harbor User Guide](user_guide.md)**  
-How to use Harbor to manage images, projects, replications and users.
+**[Harbor用户指南](user_guide.md)**  
+如何使用Harbor来管理镜像、项目、副本和用户。
 
-[Configuring HTTPS for Harbor](configure_https.md)  
-Configure security connection between Harbor and Docker client.
+[给Harbor配置HTTPS](configure_https.md)  
+在Harbor和Docker客户端之间配置安全连接。
 
-[Upgrade and Data Migration Guide](migration_guide.md)  
-Data migration may be needed when upgrading Harbor to a newer version.
+[升级和数据迁移指南](migration_guide.md)
+升级Harbor新版本时可能需要迁移数据。
 
-[Deploy Harbor on Kubernetes](kubernetes_deployment.md)  
-Guide to deploy Harbor on Kubernetes. (maintained by community)
+[在Kubernetes中部署Harbor](kubernetes_deployment.md)
+Kubernetes中部署Harbor的指南（由社区来维护）。
 
-### Developer documents
+### 开发文档
 
 [Architecture Overview of Harbor](https://github.com/vmware/harbor/wiki/Architecture-Overview-of-Harbor)  
 Developers read this first.

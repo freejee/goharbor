@@ -1,9 +1,9 @@
-# Installation and Configuration Guide
-Harbor can be installed by one of three approaches: 
+# 安装和配置指南
+可以通过以下三种方式来安装Harbor：
 
-- **Online installer:** The installer downloads Harbor's images from Docker hub. For this reason, the installer is very small in size.
+- **在线安装：** The installer downloads Harbor's images from Docker hub. For this reason, the installer is very small in size.
 
-- **Offline installer:** Use this installer when the host does not have an Internet connection. The installer contains pre-built images so its size is larger.
+- **离线安装：** Use this installer when the host does not have an Internet connection. The installer contains pre-built images so its size is larger.
 
 All installers can be downloaded from the **[official release](https://github.com/goharbor/harbor/releases)** page. 
 
